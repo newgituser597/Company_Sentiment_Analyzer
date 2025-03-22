@@ -11,8 +11,8 @@ Keeping up with company news is crucial for investors, analysts, and business pr
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <project_directory>
+   git clone <https://github.com/newgituser597/Company_Sentiment_Analyzer.git>
+   cd <Company_Sentiment_Analyzer>
    ```
 2. Install dependencies:
    ```bash
